@@ -1,0 +1,11 @@
+{
+  "name": "vitodo",
+  "description": "A todo list in a vi-like package",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "calculator-16.png", "128": "calculator-128.png" }
+}
